@@ -10,6 +10,7 @@ Use Chef 11.10.
 - Find Use custom Chef cookbooks section
 - Toggle the radio, and enter information.
 
-<small>Note 'Repository URL' needs to be `git@github.com:owner/repo.git`.
-Berkshelf enable you to specify cookbooks from multiple Repositories (Chef 11.10 only).
-Click 'Save'!</small>
+  Note 'Repository URL' needs to be `git@github.com:owner/repo.git`.
+  Berkshelf enable you to specify cookbooks from multiple Repositories (Chef 11.10 only).
+
+- Click 'Save'!
